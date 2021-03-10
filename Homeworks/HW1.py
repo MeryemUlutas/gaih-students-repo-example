@@ -3,3 +3,5 @@
 #Question 1
 for x in range(a):
 	print(a)
+	
+	#range(a) ya kadar olan sayıları ekrana yazdırır
